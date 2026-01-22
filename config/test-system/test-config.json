@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "name": "Test Config"
+  },
+  "defaultValue": {
+    "enabled": true,
+    "limit": 123
+  },
+  "overrides": []
+}
